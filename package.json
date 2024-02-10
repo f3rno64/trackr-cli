@@ -1,0 +1,32 @@
+{
+  "name": "trackr-cli",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "index.js",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "description": "A CLI Time Tracker",
+  "author": "Cris Mihalache <f3rno64@gmail.com>",
+  "homepage": "https://github.com/f3rno64/trackr-cli",
+  "bugs": {
+    "url": "https://github.com/f3rno64/trackr-cli/issues",
+    "email": "f3rno64@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/f3rno64/trackr-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "time",
+    "todos",
+    "tasks",
+    "tracker",
+    "timesheet",
+    "time-tracking"
+  ],
+  "devDependencies": {
+    "remark": "^15.0.1"
+  }
+}
